@@ -1,6 +1,6 @@
 <html lang="en">
 <head>
-	<title>oi prof</title> 
+	oi prof
 	<meta charset="utf-8"> 
 </head>
 <body>
